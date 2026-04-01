@@ -1,0 +1,13 @@
+streamlit
+groq
+langchain
+langchain-groq
+langchain-community
+pypdf2
+python-docx
+sentence-transformers
+faiss-cpu
+uuid
+python-multipart
+langchain-text-splitters
+pypdf
